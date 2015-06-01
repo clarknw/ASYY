@@ -1,2 +1,2 @@
-# ASYY-NAVI
+# ASYY
 鞍山医院院内导航
